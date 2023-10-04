@@ -10,7 +10,8 @@
 
 #### ✨ 첫 화면 ✨
 
-<img width="1728" alt="first_page" src="https://github.com/VOMLab/VOM_Touchmap/assets/134579948/f94b3876-60de-454e-8a0a-ae1526206819">
+<img width="1728" alt="first_page" src="https://github.com/VOMLab/VOM_Touchmap/assets/134579948/ccd43598-ebdc-44d0-838b-c2910cd063d8">
+
 
 1. 버전 정보
 2. 큐 메인 페이지
@@ -27,7 +28,9 @@
 - (2)의 큐 메인에 큐를 하나씩 추가해줄 수 있다.
 
 #### ✨ 큐 생성 이후 ✨ 
-<img width="1728" alt="second" src="https://github.com/VOMLab/VOM_Touchmap/assets/134579948/de7d8457-c9aa-47db-8f92-94ce171684a4">
+
+<img width="1728" alt="second" src="https://github.com/VOMLab/VOM_Touchmap/assets/134579948/b7e56a7c-980f-471a-84e4-0c05c7291881">
+
 
 1. 리소스 추가 -> 교체
 - 리소스 추가 버튼을 눌러서 영상을 추가할 수 있다.
@@ -50,8 +53,9 @@
 - 기본으로 0.2로 입력된 칸을 수정하여 Fade in/out Time을 조절해줄 수 있다.
 
 #### ✨ 리소스 추가 및 등록된 큐 확인 ✨
-<img width="1728" alt="queue_register_0" src="https://github.com/VOMLab/VOM_Touchmap/assets/134579948/7e8660a2-f773-4aa8-8a4d-d159de7ab26c">
-<img width="1728" alt="queue_register_1" src="https://github.com/VOMLab/VOM_Touchmap/assets/134579948/fb1a8795-4995-473b-976d-10d6846ee739">
+<img width="1728" alt="queue_register_0" src="https://github.com/VOMLab/VOM_Touchmap/assets/134579948/692f217a-192f-4d82-9048-272864b8e959">
+<img width="1728" alt="queue_register_1" src="https://github.com/VOMLab/VOM_Touchmap/assets/134579948/a6fc7954-93fe-438f-a011-8a2ad925cbd4">
+
 
 - 리소스를 추가한 이후에 오른쪽 파라미터 창에서 송출 디스플레이를 설정하면 자동으로 두 번째 이미지처럼 파일의 이름을 확인할 수 있다.
 - 디스플레이 송출 버튼을 다시 눌러 끄거나, 다른 송출 디스플레이를 선택하면 자동으로 등록된 큐의 열에서 제거되거나 추가된다.
